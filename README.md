@@ -17,17 +17,17 @@ git clone https://github.com/nafiul-miraj-strativ/employee-api
 ### 2. Create a virtual environment
 
 ```bash
-    python3 -m venv new
+    python3 -m venv venv
 ```
 ### 3. For macos/linux
 
 ```bash
-    source new/bin/activate
+    source venv/bin/activate
 ```
 or for windows
 
 ```bash
-    new/scripts/activate
+    venv/scripts/activate
 ```
 ### 4. Install the dependencies
 ```bash
