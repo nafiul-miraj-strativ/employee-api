@@ -72,7 +72,7 @@ http://127.0.0.1:8000/api/
 ```
 ### Thank you
 
-## Authors
+## Author
 
 - [@nafiul-miraj-startiv](https://www.github.com/nafiul-miraj-strativ)
 
