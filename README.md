@@ -1,3 +1,11 @@
+# DRF Employee Name and Email API
+
+This is a RESTful API built using Django REST Framework (DRF) for managing employee names and email addresses.
+
+## Features
+
+- Create, list, retrieve, update and delete employee records
+
 
 ## To run this locally
 ### 1. Clone the repository
