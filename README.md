@@ -4,7 +4,7 @@ This is a RESTful API built using Django REST Framework (DRF) for managing emplo
 
 ## Features
 
-- Create, list, retrieve, update and delete employee records
+Create, list, retrieve, update and delete employee records
 
 
 ## To run this locally
